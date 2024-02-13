@@ -10,4 +10,4 @@ as for the naming part...i ran out of good names okay 😭
 `baseA`, `baseB`: The number that an input is converted to.
 `N`: The size of a text group
 
-![touchinggrass](https://github.com/tynji/Shxtou-Compression-Algorithm/assets/62798408/068a55f1-4be1-4b91-a63d-f884f9618e9b)
+![diagram that sorta explains this thing *falls asleep*](https://github.com/tynji/Shxtou-Compression-Algorithm/assets/62798408/068a55f1-4be1-4b91-a63d-f884f9618e9b)
