@@ -46,7 +46,7 @@ char* convertToBaseA(const char* input, int A) {
 }
 
 // silly divide function check
-char* checkMax(const char* input, int grSize) {
+char* checkOutputLength(const char* input, int grSize) {
     int len = strlen(input);
     int remainder = len % grSize;
 
@@ -108,7 +108,7 @@ int main() {
     scanf("%d", &groupSize);
 
     // Check and adjust length for splitting into groups
-    char* adjustedText = checkMax(convertedText, groupSize);
+    char* adjustedText = checkOutputLength(convertedText, groupSize);
 
     // Perform splitting
     splitIntoGroups(adjustedText, groupSize);
