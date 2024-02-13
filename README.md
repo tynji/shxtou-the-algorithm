@@ -10,4 +10,5 @@ as for the naming part...i ran out of good names okay 😭
 `baseA`, `baseB`: The number that an input is converted to.
 `N`: The size of a text group
 
-![diagram for this stuff. imma go to bed now](https://github.com/tynji/shxtou-the-algorithm/assets/62798408/5ea2e429-ceea-4257-9856-04a7960c5e52)
+![image](https://github.com/tynji/shxtou-the-algorithm/assets/62798408/8e7328eb-8d25-44de-8e3a-2e1fe18c284c)
+
